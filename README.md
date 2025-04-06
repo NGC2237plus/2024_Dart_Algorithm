@@ -1,5 +1,7 @@
 
-[部署指南](Vision_Code/README.md) -- **成都大学`Ultra`战队**
+# [点击查看部署指南](Vision_Code/README.md) -- **成都大学 `Ultra` 战队**
+
+---
 
 # 项目介绍
     电控与视觉实现镖架制导代码
