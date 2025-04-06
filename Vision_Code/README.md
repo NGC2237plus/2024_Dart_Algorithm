@@ -178,10 +178,9 @@ source /opt/intel/openvino_2025.0.0/setupvars.sh
 }
 ```
 
-对于 `GPU` 设备需自行安装相关驱动，可能的有：
+对于 `GPU` 设备需自行安装相关驱动，在空文件夹下载安装包，可能的有：
 
 ```bash
-cd opencl
 wget https://github.com/intel/intel-graphics-compiler/releases/download/igc-1.0.14062.11/intel-igc-core_1.0.14062.11_amd64.deb
 wget https://github.com/intel/intel-graphics-compiler/releases/download/igc-1.0.14062.11/intel-igc-opencl_1.0.14062.11_amd64.deb
 wget https://github.com/intel/compute-runtime/releases/download/23.22.26516.18/intel-level-zero-gpu-dbgsym_1.3.26516.18_amd64.ddeb
